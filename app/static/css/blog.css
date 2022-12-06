@@ -1,0 +1,91 @@
+.page-header {
+    background-color: #C25100;
+    margin-top: 0;
+    margin-bottom: 40px;
+    padding: 20px 20px 20px 40px;
+}
+.page-header h1,
+.page-header h1 a,
+.page-header h1 a:visited,
+.page-header h1 a:active {
+    color: #ffffff;
+    font-size: 36pt;
+    text-decoration: none;   
+}
+h1,
+h2,
+h3,
+h4 {
+    font-family: 'Lobster', cursive;
+    border: 2px dotted;
+}
+.teacher {
+    margin-bottom: 20px;
+    border: 2px solid red;
+}
+.teachername {
+    color:#7c2207;
+    background-color: #7ed324;
+}
+.teacherage {                         
+    color: rgb(46, 20, 113); 
+    background-color: aquamarine;
+    
+}
+.posttext {
+    color: #7c2207;
+    background-color: rgb(166, 178, 72);
+}
+.posttitle {
+    color: #1fa1a3;
+    background-color: rgb(222, 127, 208);
+}
+/*
+h1,
+h3,
+h4 {
+    font-family: 'Lobster', cursive;
+    border: 2px dotted;
+}
+
+.save {
+    float: right;
+}
+
+.post-form textarea,
+.post-form input {
+    width: 100%;
+}
+
+.top-menu,
+.top-menu:hover,
+.top-menu:visited {
+    color: #ffffff;
+    float: right;
+    font-size: 26pt;
+    margin-right: 20px;
+}
+
+
+
+.teacher h3 a,
+.teacher h3 a:visited {
+    color: #1fa1a3;
+}
+
+.teacher > .actions {
+    float: right;
+}
+
+.btn-secondary,
+.btn-secondary:visited {
+    color: #C25100;
+    background: none;
+    border-color: #C25100;
+}
+
+.btn-secondary:hover {
+    color: #FFFFFF;
+    background-color: #C25100;
+}
+*/
