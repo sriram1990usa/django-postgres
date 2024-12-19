@@ -10,7 +10,7 @@ SECRET_KEY = 'change me'
 if SECRET_KEY in os.environ:
     SECRET_KEY = os.environ["SECRET_KEY"]
 
-DEBUG = True
+DEBUG = False
 ALLOWED_HOSTS = ['*']
 
 INSTALLED_APPS = [
